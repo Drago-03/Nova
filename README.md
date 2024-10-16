@@ -1,0 +1,2 @@
+# Nova
+A Discord Bot
